@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/Mitalee/Desktop/CS225/POTD/potd-q2'
+let g:netrw_dirhist_2='/Users/Mitalee/Desktop/CS225/mp4'
+let g:netrw_dirhist_3='/Users/Mitalee/Desktop/CS225/lab_puzzles'
+let g:netrw_dirhist_4='/Users/Mitalee/Desktop/CS225/lab_graphs'
